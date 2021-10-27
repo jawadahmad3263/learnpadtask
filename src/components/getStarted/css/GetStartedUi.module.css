@@ -1,0 +1,27 @@
+.getStartedSection{
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+.getStartWrapper{
+    background-color: #11302d;
+    border-radius: 20px;
+
+
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    color: #ffffff;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.getbutton{
+    background-color: #22dbb5;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 40px;
+    color: white;
+    margin-top: 20px; }

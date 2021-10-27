@@ -1,0 +1,24 @@
+.recordbutton{
+    background-color: #11302d;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 40px;
+    color: white;
+    margin-top: 20px;
+}
+.recordSection{
+    padding: 50px 0px;
+    background-color: aliceblue;
+}
+
+ thead{
+    background-color: white;
+}
+.myTable tr{
+    font-size: 18px;
+    font-weight: bold;
+    color: #415957;
+}
+
+.myTable tr:nth-child(even){background-color: #dfe7f0}
+.myTable tr:nth-child(odd){background-color: #ffffff}

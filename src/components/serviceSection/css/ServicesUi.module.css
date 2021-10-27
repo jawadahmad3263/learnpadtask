@@ -1,0 +1,17 @@
+.ServicesWrapper{
+    padding: 50px 0px;
+}
+.servicCard{
+    border-left: 1px solid lightgray;
+    min-height: 220px;
+    padding: 0px 30px;
+}
+
+.topheading{
+    max-width: 52%;
+    margin-bottom: 50px;
+}
+
+.cardparagraph{
+    max-width: 80%;
+}

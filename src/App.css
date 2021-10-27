@@ -1,0 +1,47 @@
+
+
+.lightGreen{
+    color: #22dbb5;
+}
+
+.darkGreen{
+    color: #11302d;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+
+
+  .nav-pills .nav-link {
+    margin-top: 20px;
+  
+    width: 439.83px;
+    border-radius: 5px;
+  
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: left;
+ 
+  
+    color: #033b2f;
+    
+    height: 100px;
+  }
+  .nav-pills .nav-link:hover {
+   color: #22dbb5;
+  }
+  
+  .nav-pills .nav-link.active,
+  .nav-pills .show > .nav-link {
+background-color: none;
+    color: #22dbb5;
+  }
+  
+  .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: rgb(238, 238, 238) !important;
+      color: #22dbb5 !important;
+  }

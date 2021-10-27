@@ -1,0 +1,29 @@
+
+.navbarSectionMain ul li {
+  padding: 0px 30px;
+  display: flex;
+  align-items: center;
+}
+.navbarSectionMain ul li a{
+  font-size: 18px;
+  font-weight: 500;
+  color: #11302d;
+}
+
+.navbarSectionMain ul li a:hover{
+  color: #11302d;
+}
+.linkStyle{
+  background-color:  #11302d;
+  font-weight: 500;
+  border-radius: 30px;
+  padding: 0px 10px;
+  
+}
+.linkwrapper{
+  margin: 0px 20px;
+  border: 1px solid #11302d;
+  padding: 0px 10px;
+  border-radius: 30px;
+}
+

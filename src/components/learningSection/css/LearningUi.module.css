@@ -1,0 +1,47 @@
+.learningSection {
+  padding: 40px 0px;
+
+  background-color: rgb(238, 238, 238);
+}
+
+
+.tablink {
+  display: flex;
+  margin-left: 50px;
+  align-items: center;
+}
+.tablink button {
+  text-align: left;
+  color: #11302d;
+  font-size: 45px;
+  font-weight: 600;
+}
+
+  
+.tablink button span {
+  font-size: 99px;
+  margin-right: 41px;
+}
+
+
+.tabContentData img{
+    width: 550px;
+    height: 550px;
+}
+.tabContentData{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.tabContentData h2{
+    font-weight: 600;
+    font-size: 50px;
+    color: #11302d;
+    margin-bottom: 20px;
+
+}
+.tabContentData p{
+    color: #11302d;
+    margin-bottom: 10px;
+    width: 78%;
+}
